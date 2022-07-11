@@ -1,18 +1,31 @@
-# 박지윤 포트폴리오
-## ✨: 
-(여기에 자기 소개)
+
+
+## ✨Intro
+
+- 꾸준히 학습하는 개발자 박지윤입니다.</br>
+- 여러방면의 성장과 비효율적인 프로세스 개선에 기여하는 일을 좋아합니다.</br>
+- 새로운 것과 변화에 두려워하지 않습니다.</br>
+- 다양한 사람들과 어울리며 개발하고 싶습니다.
+
 
 </br>
 
-## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+## ✨ Contact
+- 이메일: nmjk0123@gmail.com
+- 블로그: https://parkji-yun.github.io
+- 깃헙: https://github.com/parkJi-yun
 
 </br>
 
-## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
+## ✨ Timeline
+- ```2019-08-05``` ~ ```2020-02-07``` 웹 디자인&퍼블리셔 과정 수료
+- ```2020-02-03``` ~ ```2021-06-14``` 프론트 취업 및 퇴사
+- ```2022-03-03``` ~ ```2022-08-01``` 풀스택 개발자 양성과정 수료
+
+</br>
+
+## ✨ Projects
+### 1. [학사관리시스템](https://github.com/Integerous/goQuality)
 >고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
 >개발 기간: 2019.2.18 ~ 2019.4.5  
 >  
