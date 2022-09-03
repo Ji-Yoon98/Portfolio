@@ -25,15 +25,15 @@
 </br>
 
 ## ✨ Projects
-### 1. [Mocar](https://github.com/Integerous/goQuality)
+### 1. [Mocar](https://github.com/parkJi-yun/mocar_project)
 >차량 렌트 서비스 (팀 프로젝트)  
 >개발 기간: 2022.05.17 ~ 2022.06.30  
 >  
 >기술 스택:  
->Java 8 / JSP_[MVC2] / DBMS(Oracle)
+>Java 8 / JSP_[MVC2] / DBMS(Oracle)<br>
 >Html 5 / Css3 / JavaScript / Jquery
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/parkJi-yun/mocar_project) 참고
 
 ---
 
