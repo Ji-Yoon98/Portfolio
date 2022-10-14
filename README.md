@@ -2,7 +2,7 @@
 
 ## ✨Intro
 
-- 꾸준히 학습하는 신입개발자 박지윤입니다.</br>
+- 꾸준히 노력하는 신입개발자 박지윤입니다.</br>
 - 여러방면의 성장과 비효율적인 프로세스 개선에 기여하는 일을 좋아합니다.</br>
 - 새로운 것과 변화에 두려워하지 않습니다.</br>
 - 다양한 사람들과 어울리며 개발하고 싶습니다.
@@ -25,7 +25,25 @@
 </br>
 
 ## ✨ Projects
-### 1. [Mocar](https://github.com/parkJi-yun/mocar_project)
+### 1. [Laundrygo](https://github.com/parkJi-yun/Laundrygo_project)
+>'우리집 모바일 세탁소, 런드리고'의 웹사이트 버전 (팀 프로젝트)  
+>개발 기간: <br>
+>
+>FrontEnd <br>
+>2022.08.07 ~ 2022.08.21 <br>
+>
+>BackEnd <br>
+>2022.09.18 ~ 2022.10.04 <br>
+>  
+>기술 스택:  
+>Java 11 / JSP / DBMS(MySQL) / Spring MVC / JSTL / Mybatis <br>
+>Html 5 / Css3 / JavaScript / Jquery
+>  
+>[프로젝트 상세 설명](https://github.com/parkJi-yun/Laundrygo_project) 참고
+
+---
+
+### 2. [Mocar](https://github.com/parkJi-yun/mocar_project)
 >차량 렌트 서비스 (팀 프로젝트)  
 >개발 기간: 2022.05.17 ~ 2022.06.30  
 >  
@@ -34,17 +52,5 @@
 >Html 5 / Css3 / JavaScript / Jquery
 >  
 >[프로젝트 상세 설명](https://github.com/parkJi-yun/mocar_project) 참고
-
----
-
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 
