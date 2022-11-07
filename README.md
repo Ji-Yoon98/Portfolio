@@ -37,7 +37,7 @@
 >  
 >기술 스택:  
 >Java 11 / JSP / DBMS(MySQL) / Spring MVC / JSTL / Mybatis <br>
->Html 5 / Css3 / JavaScript / Jquery
+>CSS3 / JavaScript / jQuery
 >  
 >[프로젝트 상세 설명](https://github.com/parkJi-yun/Laundrygo_project) 참고
 
@@ -48,8 +48,8 @@
 >개발 기간: 2022.05.17 ~ 2022.06.30  
 >  
 >기술 스택:  
->Java 8 / JSP_[MVC2] / DBMS(Oracle)<br>
->Html 5 / Css3 / JavaScript / Jquery
+>Java8 / JSP_[MVC2] / DBMS(Oracle)<br>
+>HTML5 / CSS3 / JavaScript / jQuery
 >  
 >[프로젝트 상세 설명](https://github.com/parkJi-yun/mocar_project) 참고
 
