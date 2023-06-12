@@ -42,5 +42,3 @@
 >HTML5 / CSS3 / JavaScript / jQuery / Ajax
 >  
 >[프로젝트 상세 설명](https://github.com/parkJi-yun/Laundrygo_project) 참고
-
----
