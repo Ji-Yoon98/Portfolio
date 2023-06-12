@@ -7,13 +7,12 @@
 - 새로운 것과 변화에 두려워하지 않습니다.</br>
 - 함께 성장하는 즐거움에 관심이 있습니다.
 
-
 </br>
 
 ## ✨ Contact
 - 이메일: nmjk0123@gmail.com
-- 블로그: https://parkji-yun.github.io
-- 깃헙: https://github.com/parkJi-yun
+- 블로그: https://Ji-Yoon98.github.io
+- Github: https://github.com/Ji-Yoon98
 
 </br>
 
@@ -23,7 +22,7 @@
 - ```2022-03``` ~ ```2022-08``` 풀스택 개발자 양성과정 수료
 - ```2022-08``` ~ ```2022-10``` [스터디] Spring 프로젝트 진행
 - ```2023-01``` ~ ```2023-05``` 메가테라 프론트엔드 생존코스 수료
-- ```2023-05``` ~ ```ing``` 포트폴리오 프로젝트 진행 중(계획단계)
+- ```2023-06``` ~ ```ing``` 10주 완성! 프로젝트 캠프(프론트엔드 리액트)
 
 </br>
 
@@ -45,15 +44,3 @@
 >[프로젝트 상세 설명](https://github.com/parkJi-yun/Laundrygo_project) 참고
 
 ---
-
-### 2. [Mocar](https://github.com/parkJi-yun/mocar_project)
->차량 렌트 서비스 (팀 프로젝트)  
->개발 기간: 2022.05.17 ~ 2022.06.30  
->  
->기술 스택:  
->Java8 / JSP_[MVC2] / DBMS(Oracle)<br>
->HTML5 / CSS3 / JavaScript / jQuery
->  
->[프로젝트 상세 설명](https://github.com/parkJi-yun/mocar_project) 참고
-
-
