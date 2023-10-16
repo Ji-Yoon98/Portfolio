@@ -4,7 +4,6 @@
 - 여러방면의 성장과 커피를 좋아하며</br>
 - 새로운 것과 변화에 두려워하지 않습니다.</br>
 - 함께 성장하는 즐거움에 관심이 있습니다.
-- [이력서 및 자기소개서](https://github.com/Ji-Yoon98/Portfolio/files/12916283/default.pdf)
 
 </br>
 
