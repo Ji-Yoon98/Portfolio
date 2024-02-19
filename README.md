@@ -18,9 +18,8 @@
 - ```2020-02``` ~ ```2021-06``` 퍼블리셔 취업 및 퇴사
 - ```2022-03``` ~ ```2022-08``` 풀스택 개발자 양성과정 수료 [Mocar](https://github.com/Ji-Yoon98/Mocar_Project)
 - ```2022-08``` ~ ```2022-10``` [Laundrygo](https://github.com/Ji-Yoon98/Laundrygo_Project) 프로젝트 진행 
-- ```2023-01``` ~ ```2023-05``` 메가테라 프론트엔드 생존코스 수료
 - ```2023-06``` ~ ```2023-08``` 10주 완성! 프로젝트 캠프(프론트엔드 리액트) [홈페이지 고객 관리 시스템](https://github.com/udemy-project-camp-team2/homepage-system-team-2)
-- ```2023-09``` ~ ```ing``` [MZTelecom](https://mzt2023.notion.site/5231e891d67544bc94e6d5d0bd8ec067?v=dc8249b9d75d47768b8b886eb88c5073&pvs=4) 프로젝트 진행 중
+- ```2023-11``` ~ ```2024-02``` [MZTelecom](https://mzt2023.notion.site/5231e891d67544bc94e6d5d0bd8ec067?v=dc8249b9d75d47768b8b886eb88c5073&pvs=4)
 
 </br>
 
