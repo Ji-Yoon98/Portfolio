@@ -28,7 +28,7 @@
 >  
 > 기술 스택:  
 > Java 17 / Spring Boot / Spring Security / Thymeleaf / Gradle / DBMS(MySQL) <br>
-> HTML5 / CSS3 / JavaScript / Fetch / jQuery / Ajax
+> HTML5 / CSS3 / JavaScript / Fetch 
 >  
 > [프로젝트 바로가기](https://gitlab.com/mztelecom/MZT)
 > 
