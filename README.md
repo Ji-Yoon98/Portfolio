@@ -12,7 +12,7 @@
 - ```2023-01``` ~ ```2023-04``` 프론트엔드 교육
 - ```2023-06``` ~ ```2023-08``` [홈페이지 고객 관리 시스템](https://github.com/udemy-project-camp-team2/homepage-system-team-2)(ReactJS)
 - ```2023-11``` ~ ```2024-02``` [MZTelecom](https://gitlab.com/mztelecom/MZT) 프로젝트 진행
-
+- ```2024-10``` ~ ing 피엠그룹코리아 재직중
 </br>
 
 ## ✨ Projects
