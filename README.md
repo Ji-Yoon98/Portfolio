@@ -1,6 +1,5 @@
 ## ✨ Contact
 - 이메일: nmjk0123@gmail.com
-- 블로그: https://Ji-Yoon98.github.io
 - Github: https://github.com/Ji-Yoon98
 
 </br>
@@ -12,41 +11,40 @@
 - ```2023-01``` ~ ```2023-04``` 프론트엔드 교육
 - ```2023-06``` ~ ```2023-08``` [홈페이지 고객 관리 시스템](https://github.com/udemy-project-camp-team2/homepage-system-team-2)(ReactJS)
 - ```2023-11``` ~ ```2024-02``` [MZTelecom](https://gitlab.com/mztelecom/MZT) 프로젝트 진행
-- ```2024-10``` ~ ing 피엠그룹코리아 재직중
+- ```2024-10``` ~ ```2026-04``` 피엠그룹코리아 재직
+- ```2026-04``` ~ ```2026-04``` Wave Log 웹/앱 제작
 </br>
 
 ## ✨ Projects
-### 1. [MZT](https://gitlab.com/mztelecom/MZT)
-> 휴대폰 판매 쇼핑몰 'MZT' (팀 프로젝트)  
-> 개발 기간: <br>
->
-> FrontEnd <br>
-> 2023.11.13 ~ 2023.12.10 <br>
->
-> BackEnd <br>
-> 2023.12.18 ~ 2024.02.12 <br>
->  
-> 기술 스택:  
-> Java 17 / Spring Boot / Spring Security / Thymeleaf / Gradle / DBMS(MySQL) <br>
-> HTML5 / CSS3 / JavaScript / Fetch 
->  
-> [프로젝트 바로가기](https://gitlab.com/mztelecom/MZT)
-> 
-> [프로젝트 정리 상세보기 Notion](https://mzt2023.notion.site/5231e891d67544bc94e6d5d0bd8ec067?v=dc8249b9d75d47768b8b886eb88c5073&pvs=4)
 
+[탁구 용품 중고·신품 거래 및 커뮤니티 서비스 개발]
+기간: 2025.09 ~ 2026.02
+주요 기술: Java17, Spring Boot, MySQL, MyBatis, Thymeleaf
+- 기획 단계부터 참여하여 풀스택으로 설계 및 개발
+- 화면설계서, 화면목록, 프로그램 목록 도출 및 DB 설계를 포함한 서비스 초기 구조 설계 수행
+- 동호회, 자유게시판, 댓글 기능 등 커뮤니티 설계 및 구현
+- 공통 페이징 처리 로직 설계 및 적용을 통한 게시판 기능 표준화
+- 푸시 알림 및 서비스 알림 기능 개발을 통해 사용자 행동 기반 알림 시스템 구현
+- 사용자 간 실시간 채팅 기능 설계 및 구현
+- 관리자(Admin) 시스템 설계 및 개발
+(공통 코드 관리, 회원 관리, 동호회 및 커뮤니티 관리, 문의 관리, 공지 관리, AI 구매 관리, 메시지 센터)
 
-### 2. [Laundrygo](https://github.com/Ji-Yoon98/Laundrygo_Project)
-> '우리집 모바일 세탁소, 런드리고'의 웹사이트 버전 (팀 프로젝트)  
-> 개발 기간: <br>
->
-> FrontEnd <br>
-> 2022.08.07 ~ 2022.08.21 <br>
->
-> BackEnd <br>
-> 2022.09.18 ~ 2022.10.04 <br>
->  
-> 기술 스택:  
-> Java 11 / Spring MVC / JSTL / Mybatis / DBMS(MySQL) <br>
-> HTML5 / CSS3 / JavaScript / jQuery / Ajax
->  
-> [프로젝트 바로가기](https://github.com/Ji-Yoon98/Laundrygo_Project)
+[사내 협업 기능을 포함한 회사 웹사이트 개발]
+기간: 2025.02 ~ 2025.08
+주요 기술: Java11, Spring Boot, MySQL, MyBatis, Vue3
+- 회사 내부 포털형 웹사이트 개발 프로젝트에 전체 기획부터 풀스택 참여
+- Vue 3 기반 실시간 반응형 UI 구성, Spring Boot 기반 REST API 설계
+- MySQL 데이터 모델링 및 관리 기능 구현
+- 시큐리티 회원가입, 로그인, 비밀번호 재설정 시스템 구축
+- 프로젝트 관리 기능 개발
+- 출퇴근 관리 시스템 구현
+- 팀원 퍼블리싱 기술 지원
+
+[공용 가계부 개발 프로젝트]
+기간: 2024.11 ~ 2025.01
+주요 기술: Java11, Spring Boot, MariaDB, MyBatis, Vue2
+- 전체 디자인 수정 및 퍼블리싱 진행
+- 가계부 종료 투표 시스템 구현
+- 멤버 차단 기능 개발
+- 다중 첨부파일 처리 기능 개발
+- 100+ 이슈 해결 (디자인 개선, 기능 추가, 버그 수정)
