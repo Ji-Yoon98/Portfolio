@@ -19,7 +19,7 @@
 
 [탁구 용품 중고·신품 거래 및 커뮤니티 서비스 개발] </br>
 기간: 2025.09 ~ 2026.02 </br>
-주요 기술: Java17, Spring Boot, MySQL, MyBatis, Thymeleaf </br></br>
+주요 기술: Java17, Spring Boot, MySQL, MyBatis, Thymeleaf </br>
 - 기획 단계부터 참여하여 풀스택으로 설계 및 개발
 - 화면설계서, 화면목록, 프로그램 목록 도출 및 DB 설계를 포함한 서비스 초기 구조 설계 수행
 - 동호회, 자유게시판, 댓글 기능 등 커뮤니티 설계 및 구현
@@ -31,7 +31,7 @@
 
 [사내 협업 기능을 포함한 회사 웹사이트 개발] </br>
 기간: 2025.02 ~ 2025.08 </br>
-주요 기술: Java11, Spring Boot, MySQL, MyBatis, Vue3 </br></br>
+주요 기술: Java11, Spring Boot, MySQL, MyBatis, Vue3 </br>
 - 회사 내부 포털형 웹사이트 개발 프로젝트에 전체 기획부터 풀스택 참여
 - Vue 3 기반 실시간 반응형 UI 구성, Spring Boot 기반 REST API 설계
 - MySQL 데이터 모델링 및 관리 기능 구현
@@ -42,7 +42,7 @@
 
 [공용 가계부 개발 프로젝트] </br>
 기간: 2024.11 ~ 2025.01 </br>
-주요 기술: Java11, Spring Boot, MariaDB, MyBatis, Vue2 </br></br>
+주요 기술: Java11, Spring Boot, MariaDB, MyBatis, Vue2 </br>
 - 전체 디자인 수정 및 퍼블리싱 진행
 - 가계부 종료 투표 시스템 구현
 - 멤버 차단 기능 개발
