@@ -5,14 +5,15 @@
 </br>
 
 ## ✨ Timeline
-- ```2020-02``` ~ ```2021-06``` 퍼블리셔 취업 및 퇴사
+- ```2020-02``` ~ ```2021-06``` 퍼블리셔 재직 및 퇴사
 - ```2022-03``` ~ ```2022-08``` 풀스택 개발자 양성과정 수료 [Mocar](https://github.com/Ji-Yoon98/Mocar_Project)
 - ```2022-08``` ~ ```2022-10``` [Laundrygo](https://github.com/Ji-Yoon98/Laundrygo_Project) 프로젝트 진행
 - ```2023-01``` ~ ```2023-04``` 프론트엔드 교육
 - ```2023-06``` ~ ```2023-08``` [홈페이지 고객 관리 시스템](https://github.com/udemy-project-camp-team2/homepage-system-team-2)(ReactJS)
 - ```2023-11``` ~ ```2024-02``` [MZTelecom](https://gitlab.com/mztelecom/MZT) 프로젝트 진행
-- ```2024-10``` ~ ```2026-04``` 피엠그룹코리아 재직
+- ```2024-10``` ~ ```2026-04``` 피엠그룹코리아 재직 및 퇴사
 - ```2026-04``` ~ ```2026-05``` [Wave-Log](https://github.com/wave-log) 웹/앱 제작
+- ```2026-07``` ~ ```ing``` 아이씨티웨이 재직
 </br>
 
 ## ✨ Projects
