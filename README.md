@@ -20,7 +20,7 @@
 
 [탁구 용품 중고·신품 거래 및 커뮤니티 서비스 개발] </br>
 기간: 2025.09 ~ 2026.02 </br>
-주요 기술: Java17, Spring Boot, MySQL, MyBatis, Thymeleaf </br>
+주요 기술: Java17, Spring Boot, MariaDB, MyBatis, Thymeleaf, Redis, WebSocket </br>
 - 기획 단계부터 참여하여 풀스택으로 설계 및 개발
 - 화면설계서, 화면목록, 프로그램 목록 도출 및 DB 설계를 포함한 서비스 초기 구조 설계 수행
 - 동호회, 자유게시판, 댓글 기능 등 커뮤니티 설계 및 구현
